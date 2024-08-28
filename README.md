@@ -1,1 +1,2 @@
+The webpage is a stylish and user-friendly sign-in and registration form. It features a modern design with a clean, intuitive layout that guides users through the login and account creation processes. The form includes fields for entering user details such as email and password, and incorporates validation and error handling for a seamless user experience. Built with HTML, CSS, and JavaScript, the page ensures a responsive design that works well on various devices.<br>
 Check out the form : https://lizaboukrif.github.io/signin-registration-form/
